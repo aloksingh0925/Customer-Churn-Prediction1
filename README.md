@@ -167,14 +167,13 @@ If you have any feedback, please reach out at pradnyapatil671@gmail.com
 
 
 ### 🚀 About Me
-#### Hi, I'm Pradnya! 👋
+#### Hi, I'm Alok Singh 👋
 I am an AI Enthusiast and  Data science & ML practitioner
 
 
-[1]: https://github.com/Pradnya1208
-[2]: https://www.linkedin.com/in/pradnya-patil-b049161ba/
-[3]: https://public.tableau.com/app/profile/pradnya.patil3254#!/
-[4]: https://twitter.com/Pradnya1208
+[1]: https://github.com/aloksingh0925
+[2]: https://www.linkedin.com/in/aloksingh925/
+
 
 
 [![github](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/c292abd3f9cc647a7edc0061193f1523e9c05e1f/icons/git.svg)][1]
